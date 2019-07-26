@@ -1,4 +1,5 @@
 .idea
 *.rs.bk
+target
 .cargo-lock
 **/target/debug
